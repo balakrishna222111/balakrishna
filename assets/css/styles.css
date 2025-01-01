@@ -2683,3 +2683,15 @@ BLOG Pagination
   margin-bottom: 30px; }
 
 /*# sourceMappingURL=styles.css.map */
+
+.certification {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.certification-logo {
+  width: 500px; 
+  height: auto;
+  margin-right: 10px; 
+}

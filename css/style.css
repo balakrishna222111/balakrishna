@@ -2498,15 +2498,3 @@ body.mobile .animated {
 	margin-bottom: 10px;
 	color: #000;
  }
-
- .certification {
-    display: flex;
-    align-items: center;
-    margin-bottom: 15px;
-}
-
-.certification-logo {
-    width: 40px; /* Adjust size as needed */
-    height: auto;
-    margin-right: 10px; /* Space between image and text */
-}
